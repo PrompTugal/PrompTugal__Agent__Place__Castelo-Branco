@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.castelo-branco@PrompTugal.dinis",
  "mandate": "PrompTugal.news Castelo Branco: AI and technology in Castelo Branco, a Beira Baixa district capital whose centre of gravity is its polytechnic, now the Universidade Politécnica de Castelo Branco, and a small circle of local tech firms, and what reaches Castelo Branco from Portugal, Europe and the world. Independent. Every fact sourced.",
  "gravity": {
@@ -533,18 +533,73 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:38Z",
+  "read_at": "2026-11-27T07:38Z",
   "by": "place.castelo-branco@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "A BeiraMoto, concessionária oficial Honda em Castelo Branco",
-   "url": "https://www.beirabaixatv.pt/a-beiramoto-concessionaria-oficial-honda-em-castelo-branco-esta-a-promover-at/",
+   "title": "Pedro Rafael alia arte e educação no Rafael’s ArtLab em Castelo Branco",
+   "url": "https://www.beirabaixatv.pt/pedro-rafael-alia-arte-e-educacao-no-rafaels-artlab-em-castelo-branco-2/",
    "source": "Beira Baixa TV",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:29:15Z",
+   "read_at": "2026-11-27T07:27:47Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Uma aluna do 7.º ano do Agrupamento de Escolas da Sertã estará a ser vítima de b",
+    "url": "https://www.beirabaixatv.pt/uma-aluna-do-7-o-ano-do-agrupamento-de-escolas-da-serta-estara-a-ser-vitima-de-b/",
+    "published": "2026-11-26T21:10Z",
+    "source": "Beira Baixa TV",
+    "source_site": "http://beirabaixatv.pt",
+    "feed": "http://beirabaixatv.pt/feed/",
+    "read_at": "2026-11-27T07:27:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Faleceu Albertino dos Santos Batista, aos 69",
+    "url": "https://www.beirabaixatv.pt/faleceu-albertino-dos-santos-batista-aos-69-natural-de-sao-jorge-da-beira-cov/",
+    "published": "2026-11-26T20:10Z",
+    "source": "Beira Baixa TV",
+    "source_site": "http://beirabaixatv.pt",
+    "feed": "http://beirabaixatv.pt/feed/",
+    "read_at": "2026-11-27T07:27:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "A construção do IC31",
+    "url": "https://www.beirabaixatv.pt/a-construcao-do-ic31-entre-castelo-branco-e-monfortinho-deu-mais-um-passo-na-a/",
+    "published": "2026-11-26T19:40Z",
+    "source": "Beira Baixa TV",
+    "source_site": "http://beirabaixatv.pt",
+    "feed": "http://beirabaixatv.pt/feed/",
+    "read_at": "2026-11-27T07:27:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "A APPACDM da Covilhã visitou o New Hand Lab",
+    "url": "https://www.beirabaixatv.pt/a-appacdm-da-covilha-visitou-o-new-hand-lab-um-espaco-cultural-e-criativo-insta/",
+    "published": "2026-11-26T19:10Z",
+    "source": "Beira Baixa TV",
+    "source_site": "http://beirabaixatv.pt",
+    "feed": "http://beirabaixatv.pt/feed/",
+    "read_at": "2026-11-27T07:27:47Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Pedro Rafael alia arte e educação no Rafael’s ArtLab em Castelo Branco",
+    "url": "https://www.beirabaixatv.pt/pedro-rafael-alia-arte-e-educacao-no-rafaels-artlab-em-castelo-branco-2/",
+    "published": "2026-11-26T18:39Z",
+    "source": "Beira Baixa TV",
+    "source_site": "http://beirabaixatv.pt",
+    "feed": "http://beirabaixatv.pt/feed/",
+    "read_at": "2026-11-27T07:27:47Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
    {
     "title": "Um veículo ligeiro de passageiros foi ontem furtado por volta das 13 horas na Ze",
     "url": "https://www.beirabaixatv.pt/um-veiculo-ligeiro-de-passageiros-foi-ontem-furtado-por-volta-das-13-horas-na-ze/",
@@ -552,62 +607,7 @@
     "source": "Beira Baixa TV",
     "source_site": "http://beirabaixatv.pt",
     "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-26T18:29:15Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "A BeiraMoto, concessionária oficial Honda em Castelo Branco",
-    "url": "https://www.beirabaixatv.pt/a-beiramoto-concessionaria-oficial-honda-em-castelo-branco-esta-a-promover-at/",
-    "published": "2026-11-26T17:44Z",
-    "source": "Beira Baixa TV",
-    "source_site": "http://beirabaixatv.pt",
-    "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-26T18:29:15Z",
-    "mentions_place": true,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Carla Correia",
-    "url": "https://www.beirabaixatv.pt/carla-correia-atleta-da-appacdm-da-covilha-conquistou-o-primeiro-lugar-no-fema/",
-    "published": "2026-11-26T17:13Z",
-    "source": "Beira Baixa TV",
-    "source_site": "http://beirabaixatv.pt",
-    "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-26T18:29:15Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "O Intermarché de Alcains assinalou esta quinta-feira",
-    "url": "https://www.beirabaixatv.pt/o-intermarche-de-alcains-assinalou-esta-quinta-feira-26-de-novembro-30-anos-de/",
-    "published": "2026-11-26T16:43Z",
-    "source": "Beira Baixa TV",
-    "source_site": "http://beirabaixatv.pt",
-    "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-26T18:29:15Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "A artista plástica Rosário Bello foi selecionada para integrar o livro “100 Euro",
-    "url": "https://www.beirabaixatv.pt/a-artista-plastica-rosario-bello-foi-selecionada-para-integrar-o-livro-100-euro/",
-    "published": "2026-11-26T16:10Z",
-    "source": "Beira Baixa TV",
-    "source_site": "http://beirabaixatv.pt",
-    "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-26T18:29:15Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "O vereador responsável pelo pelouro do Desporto da Câmara Municipal da Covilhã a",
-    "url": "https://www.beirabaixatv.pt/o-vereador-responsavel-pelo-pelouro-do-desporto-da-camara-municipal-da-covilha-a/",
-    "published": "2026-11-26T15:40Z",
-    "source": "Beira Baixa TV",
-    "source_site": "http://beirabaixatv.pt",
-    "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-26T18:29:15Z",
+    "read_at": "2026-11-27T07:27:47Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -618,7 +618,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-26T18:29:18Z",
+    "read_at": "2026-11-27T07:27:49Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -629,7 +629,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-26T18:29:18Z",
+    "read_at": "2026-11-27T07:27:49Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -640,7 +640,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-26T18:29:18Z",
+    "read_at": "2026-11-27T07:27:49Z",
     "mentions_place": false,
     "date": "2026-11-23"
    },
@@ -651,7 +651,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-26T18:29:18Z",
+    "read_at": "2026-11-27T07:27:49Z",
     "mentions_place": false,
     "date": "2026-11-19"
    },
@@ -662,7 +662,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-26T18:29:18Z",
+    "read_at": "2026-11-27T07:27:49Z",
     "mentions_place": false,
     "date": "2026-11-19"
    },
@@ -673,7 +673,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-26T18:29:18Z",
+    "read_at": "2026-11-27T07:27:49Z",
     "mentions_place": false,
     "date": "2026-11-18"
    },
@@ -684,7 +684,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:29:11Z",
+    "read_at": "2026-11-27T07:27:45Z",
     "mentions_place": true,
     "date": null
    },
@@ -695,7 +695,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:29:11Z",
+    "read_at": "2026-11-27T07:27:45Z",
     "mentions_place": false,
     "date": null
    },
@@ -706,7 +706,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:29:11Z",
+    "read_at": "2026-11-27T07:27:45Z",
     "mentions_place": false,
     "date": null
    },
@@ -717,7 +717,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:29:11Z",
+    "read_at": "2026-11-27T07:27:45Z",
     "mentions_place": true,
     "date": null
    },
@@ -728,7 +728,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:29:11Z",
+    "read_at": "2026-11-27T07:27:45Z",
     "mentions_place": false,
     "date": null
    },
@@ -739,7 +739,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-26T18:29:11Z",
+    "read_at": "2026-11-27T07:27:45Z",
     "mentions_place": false,
     "date": null
    }
