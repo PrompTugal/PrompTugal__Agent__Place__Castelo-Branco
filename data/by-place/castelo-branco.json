@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.castelo-branco@PrompTugal.dinis",
  "mandate": "PrompTugal.news Castelo Branco: AI and technology in Castelo Branco, a Beira Baixa district capital whose centre of gravity is its polytechnic, now the Universidade Politécnica de Castelo Branco, and a small circle of local tech firms, and what reaches Castelo Branco from Portugal, Europe and the world. Independent. Every fact sourced.",
  "gravity": {
@@ -533,82 +533,82 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.castelo-branco@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "O Alegro Castelo Branco prepara-se para receber o Pai Natal no próximo domingo,",
-   "url": "https://www.beirabaixatv.pt/o-alegro-castelo-branco-prepara-se-para-receber-o-pai-natal-no-proximo-domingo/",
+   "title": "O movimento contra mega-projetos",
+   "url": "https://www.beirabaixatv.pt/o-movimento-contra-mega-projetos-como-parques-eolicos-e-minas-de-litio-anuncio/",
    "source": "Beira Baixa TV",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:28:06Z",
-   "names_place": true
+   "read_at": "2026-11-28T07:27:39Z",
+   "names_place": false
   },
   "items": [
    {
-    "title": "A escritora Célia Teixeira abraça uma nova etapa da sua vida literária. Depois d",
-    "url": "https://www.beirabaixatv.pt/a-escritora-celia-teixeira-abraca-uma-nova-etapa-da-sua-vida-literaria-depois-d/",
-    "published": "2026-11-27T18:10Z",
+    "title": "O movimento contra mega-projetos",
+    "url": "https://www.beirabaixatv.pt/o-movimento-contra-mega-projetos-como-parques-eolicos-e-minas-de-litio-anuncio/",
+    "published": "2026-11-27T21:10Z",
     "source": "Beira Baixa TV",
     "source_site": "http://beirabaixatv.pt",
     "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-27T18:28:06Z",
+    "read_at": "2026-11-28T07:27:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "David Rodrigues",
-    "url": "https://www.beirabaixatv.pt/david-rodrigues-tecnico-de-desporto-da-associacao-de-apoio-a-crianca-do-distrit/",
-    "published": "2026-11-27T17:38Z",
+    "title": "O Agrupamento de Escolas da Sertã fez chegar à redação da Beira Baixa TV um comu",
+    "url": "https://www.beirabaixatv.pt/o-agrupamento-de-escolas-da-serta-fez-chegar-a-redacao-da-beira-baixa-tv-um-comu/",
+    "published": "2026-11-27T20:40Z",
     "source": "Beira Baixa TV",
     "source_site": "http://beirabaixatv.pt",
     "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-27T18:28:06Z",
+    "read_at": "2026-11-28T07:27:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "O Alegro Castelo Branco prepara-se para receber o Pai Natal no próximo domingo,",
-    "url": "https://www.beirabaixatv.pt/o-alegro-castelo-branco-prepara-se-para-receber-o-pai-natal-no-proximo-domingo/",
-    "published": "2026-11-27T17:10Z",
+    "title": "EM DIRETO: BEIRA BAIXA TV",
+    "url": "https://www.beirabaixatv.pt/em-direto-beira-baixa-tv-1271/",
+    "published": "2026-11-27T20:10Z",
     "source": "Beira Baixa TV",
     "source_site": "http://beirabaixatv.pt",
     "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-27T18:28:06Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Foram avistavas vacas na berma da Estrada Nacional 332 (N332)",
-    "url": "https://www.beirabaixatv.pt/foram-avistavas-vacas-na-berma-da-estrada-nacional-332-n332-nas-proximidades/",
-    "published": "2026-11-27T16:38Z",
-    "source": "Beira Baixa TV",
-    "source_site": "http://beirabaixatv.pt",
-    "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-27T18:28:06Z",
+    "read_at": "2026-11-28T07:27:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "Helena Mendonça vai recandidatar-se ao cargo de provedora da Santa Casa da Miser",
-    "url": "https://www.beirabaixatv.pt/helena-mendonca-vai-recandidatar-se-ao-cargo-de-provedora-da-santa-casa-da-miser/",
-    "published": "2026-11-27T16:11Z",
+    "title": "A idade da reforma deverá subir para 67 anos em 2028",
+    "url": "https://www.beirabaixatv.pt/a-idade-da-reforma-devera-subir-para-67-anos-em-2028-de-acordo-com-os-calculos/",
+    "published": "2026-11-27T19:40Z",
     "source": "Beira Baixa TV",
     "source_site": "http://beirabaixatv.pt",
     "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-27T18:28:06Z",
+    "read_at": "2026-11-28T07:27:39Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "Os serviços de Finanças de Castelo Branco e Vila de Rei estiveram encerrados dur",
-    "url": "https://www.beirabaixatv.pt/os-servicos-de-financas-de-castelo-branco-e-vila-de-rei-estiveram-encerrados-dur/",
-    "published": "2026-11-27T15:48Z",
+    "title": "A Câmara de Belmonte aprovou hoje",
+    "url": "https://www.beirabaixatv.pt/a-camara-de-belmonte-aprovou-hoje-por-unanimidade-na-reuniao-publica-do-execut/",
+    "published": "2026-11-27T19:10Z",
     "source": "Beira Baixa TV",
     "source_site": "http://beirabaixatv.pt",
     "feed": "http://beirabaixatv.pt/feed/",
-    "read_at": "2026-11-27T18:28:06Z",
-    "mentions_place": true,
+    "read_at": "2026-11-28T07:27:39Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Faleceu o Dr. Jorge Manuel Pereira Marques, aos 60 anos",
+    "url": "https://www.beirabaixatv.pt/faleceu-o-dr-jorge-manuel-pereira-marques-aos-60-anos-residente-no-barco-cov/",
+    "published": "2026-11-27T18:40Z",
+    "source": "Beira Baixa TV",
+    "source_site": "http://beirabaixatv.pt",
+    "feed": "http://beirabaixatv.pt/feed/",
+    "read_at": "2026-11-28T07:27:39Z",
+    "mentions_place": false,
     "date": "2026-11-27"
    },
    {
@@ -618,7 +618,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-27T18:28:09Z",
+    "read_at": "2026-11-28T07:27:41Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -629,7 +629,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-27T18:28:09Z",
+    "read_at": "2026-11-28T07:27:41Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -640,7 +640,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-27T18:28:09Z",
+    "read_at": "2026-11-28T07:27:41Z",
     "mentions_place": false,
     "date": "2026-11-23"
    },
@@ -651,7 +651,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-27T18:28:09Z",
+    "read_at": "2026-11-28T07:27:41Z",
     "mentions_place": false,
     "date": "2026-11-19"
    },
@@ -662,7 +662,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-27T18:28:09Z",
+    "read_at": "2026-11-28T07:27:41Z",
     "mentions_place": false,
     "date": "2026-11-19"
    },
@@ -673,7 +673,7 @@
     "source": "Notícias da Covilhã",
     "source_site": "https://noticiasdacovilha.pt",
     "feed": "https://noticiasdacovilha.pt/feed/",
-    "read_at": "2026-11-27T18:28:09Z",
+    "read_at": "2026-11-28T07:27:41Z",
     "mentions_place": false,
     "date": "2026-11-18"
    },
@@ -684,7 +684,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:03Z",
+    "read_at": "2026-11-28T07:27:36Z",
     "mentions_place": false,
     "date": null
    },
@@ -695,7 +695,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:03Z",
+    "read_at": "2026-11-28T07:27:36Z",
     "mentions_place": true,
     "date": null
    },
@@ -706,7 +706,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:03Z",
+    "read_at": "2026-11-28T07:27:36Z",
     "mentions_place": true,
     "date": null
    },
@@ -717,7 +717,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:03Z",
+    "read_at": "2026-11-28T07:27:36Z",
     "mentions_place": false,
     "date": null
    },
@@ -728,7 +728,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:03Z",
+    "read_at": "2026-11-28T07:27:36Z",
     "mentions_place": false,
     "date": null
    },
@@ -739,7 +739,7 @@
     "source": "A Voz de Castelo Branco",
     "source_site": "https://avozdecastelobranco.sapo.pt/",
     "feed": "https://avozdecastelobranco.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:28:03Z",
+    "read_at": "2026-11-28T07:27:36Z",
     "mentions_place": true,
     "date": null
    }
